@@ -1,3 +1,4 @@
 nginx:latest
 xhofe/alist:latest
 openjdk:8-jdk-alpine
+sonatype/nexus3
