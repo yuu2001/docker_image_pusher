@@ -2,4 +2,4 @@ nginx:latest
 xhofe/alist:latest
 openjdk:8-jdk-alpine
 sonatype/nexus3
-arm32v7/openjdk:8-jdk
+redis:latest
