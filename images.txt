@@ -3,3 +3,4 @@ xhofe/alist:latest
 openjdk:8-jdk-alpine
 sonatype/nexus3
 redis:latest
+openjdk:11-jdk
