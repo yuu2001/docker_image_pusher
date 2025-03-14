@@ -4,3 +4,5 @@ openjdk:8-jdk-alpine
 sonatype/nexus3
 redis:latest
 openjdk:11-jdk
+ubuntu:20.04
+ubuntu:22.04
