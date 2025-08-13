@@ -7,3 +7,4 @@ openjdk:11-jdk
 ubuntu:20.04
 ubuntu:22.04
 arm64v8/nginx
+nouchka/sqlite3
